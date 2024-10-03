@@ -37,7 +37,7 @@ echo "Node Environment set to: $NODE_ENV"
 echo
 
 export LOG_LEVEL=debug
-export LOG_PRETTY=false
+export LOG_PRETTY=true
 echo "Log settings configured: LOG_LEVEL=$LOG_LEVEL, LOG_PRETTY=$LOG_PRETTY"
 echo
 
